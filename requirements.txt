@@ -1,0 +1,5 @@
+argparse
+botocore==1.12.28
+boto3==1.9.28
+requests==2.20.0
+requests-aws4auth==0.9
